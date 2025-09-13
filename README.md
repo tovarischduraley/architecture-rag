@@ -12,4 +12,5 @@
   - `faiss.index` — FAISS индекс
   - `metadata.pkl` — метаданные
   - `assistant.py` — RAG бот
+  - `terms_map.json` - термины
 
